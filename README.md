@@ -32,7 +32,7 @@ Resolution: what legal action was taken against the person that committed the cr
 
 X: Latitude
 
-Y:Longitude
+Y: Longitude
 
 ## Results:
 
