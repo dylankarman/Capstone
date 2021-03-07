@@ -2,7 +2,7 @@
 
 ## Data Analysis For the Year 2016
 
-**Authors**: Dylan Karman
+**Author**: Dylan Karman
 
 The contents of this repository detail an analysis of crime data from San Francisco, in 2016. This analysis is detailed in hopes of making the work accessible and replicable.
 
